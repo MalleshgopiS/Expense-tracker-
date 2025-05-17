@@ -21,5 +21,7 @@ Key Features:
 Fixed Issues:
 - Ensured transactions load as a list to prevent errors.
 - Used proper list concatenation instead of append to add new transactions.
-This tracker helps users monitor their finances effortlessly! 🚀 Let me know if you need enhancements or more details.
+This tracker helps users monitor their finances effortlessly! Let me know if you need enhancements or more details.
+
+Email: malleshg1998@gmail.com
 
